@@ -1,0 +1,6 @@
+package com.sit.homeloan.enums;
+
+public enum DocumentType {
+
+	AADHAAR, PAN, SALARY_SLIP, BANK_STATEMENT, ADDRESS_PROOF, EMPLOYMENT_PROOF, PROPERTY_DOCUMENT, PHOTO, SIGNATURE
+}
